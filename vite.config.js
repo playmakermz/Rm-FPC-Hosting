@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue';
 import { resolve } from 'path';
 
 export default defineConfig({
-  base: "/Rm-FPC-Hosting/",
+  base: "/Rm_FPC_Hosting/",
   plugins: [vue()],
   resolve: {
     alias: {
